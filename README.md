@@ -12,3 +12,4 @@
 the second one shows the optimal path marked with a red line. The Python code returns the optimal distance as well as a list of nodes to follow in order, 
 along with their coordinates.
 
+-The code "Interface_TSP.py" (to be placed in the same file as the previous code) is an implementation of an interface that allows the user to freely create nodes on a 500x400 frame. After creating the nodes, the user can click on the "Résoudre" (Solve) button to execute the algorithm, display the optimal distance, and draw the best path. The user can also adjust the parameters from the interface, such as the "number of ants," "number of iterations," and "pheromone evaporation rate"...
