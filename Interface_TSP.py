@@ -1,8 +1,4 @@
 
-# Crée une fenetre, un canevas, place le noeud de départ
-# Puis onclique pour placer les autres noeuds.
-# Possibilité d'effacer les noeuds en allanat en arrière.
-# Deux listes contiennent les noeuds et leurs coordonnées
 
 
 from tkinter import *
