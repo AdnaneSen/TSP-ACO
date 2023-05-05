@@ -43,7 +43,6 @@ class ZoneAffichage(Canvas):
 
     def action_pour_un_clique(self, event):
         print("Trace : (x,y) = ", event.x, event.y)
-        #showinfo('Résultat ', "Arrrgh : vous avez dans la fenetre" + '\nThanks !')
         
         # Placer un noeud à l'endroit cliqué
         self.__fen_parent.placer_un_noeud(event.x, event.y)
